@@ -1,0 +1,19 @@
+name: UltraAuth
+version: 2.1.2
+description: A LightWeight Auth Plugin.
+main: ultraauth.main.Main
+authors: [xXkguyXx, GoogleLover1234]
+commands:
+  register:
+    description: Set Your Passworld.
+    usage: /<command>
+  login:
+    description: Login using Your Password.
+    usage: /<command>
+    aliases: [l]
+  resetpassword:
+    description: Reset Your Own Password.
+    usage: /<command>
+  ultraauth:
+    description: Reset Players Password!
+    usage: /<command>
